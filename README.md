@@ -14,5 +14,5 @@
 
 ## 💬 Connect With Me!
 
-- [LinkedIn](www.linkedin.com/in/cozette-brown)
-- [Email](cbrown64@nd.edu)
+- [LinkedIn]:(https://www.linkedin.com/in/cozette-brown)
+- [Email]:(mailto:cbrown64@nd.edu)
