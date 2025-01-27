@@ -1,4 +1,4 @@
-![Banner Image](banner.png)
+![Banner Image](cozette-brown/banner.jpg)
 ### Hi there, I'm Cozette! 👋
 
 ## I am a student learning data science.
