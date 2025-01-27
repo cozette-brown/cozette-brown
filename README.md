@@ -16,3 +16,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/cozette-brown)
 - [Email](mailto:cbrown64@nd.edu)
+
+## ⌨️ My Projects
+
+[![View my data science portfolio](data-science-portfolio-button.jpg)](https://www.github.com/cozette-brown/BROWN-Data-Science-Portfolio)
