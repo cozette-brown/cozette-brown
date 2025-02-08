@@ -2,7 +2,7 @@
 
 ## 👋🏻 I'm Cozette Brown, a student learning data science at the University of Notre Dame.
 
-**Major:** Program of Liberal Studies
+**Major:** Program of Liberal Studies\
 **Minors:** Data Science / Education, Schooling, and Society
 
 - ⌨️ I recently completed my first course in computing. My proudest accomplishment from class is making a trackpad-friendly version of Minesweeper! 
