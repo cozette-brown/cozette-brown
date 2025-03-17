@@ -14,12 +14,12 @@
 
 ## 👩🏼‍💻 My Languages and Tools
 
-- HTML/CSS
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Streamlit
+* HTML/CSS
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Streamlit
 
 ## 💬 Connect With Me!
 
@@ -28,11 +28,16 @@
 
 ## ⌨️ My Projects
 
-### My First Streamlit App: James Bond Franchise
+### My First Streamlit App: *James Bond* Franchise
+This Streamlit app provides a way to explore similarities and differences between films in the *James Bond* franchise. It incorporates basic elements of Streamlit app development, with room for further improvement as I learn additional capabilities using Streamlit and other packages. <br>
+**Tools & Skills Showcased:**
+* Python
+* Pandas
+* Streamlit
 
 ### Tidy Data Project: Federal R&D Budget
-This project applies the principles of tidy data in order to prepare a provided dataset for analysis and create meaningful data visualizations from it.
-Tools & Skills Showcased:
+This project in Jupyter Notebooks applies the principles of tidy data in order to prepare a provided dataset for analysis and create meaningful data visualizations from it.<br>
+**Tools & Skills Showcased:**
 * Python
 * Pandas
 * Matplotlib
