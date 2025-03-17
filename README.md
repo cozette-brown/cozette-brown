@@ -25,4 +25,15 @@
 
 ## ⌨️ My Projects
 
+### My First Streamlit App: James Bond Franchise
+
+### Tidy Data Project: Federal R&D Budget
+This project applies the principles of tidy data in order to prepare a provided dataset for analysis and create meaningful data visualizations from it.
+Tools & Skills Showcased:
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+
+
 [![View my data science portfolio](data-science-portfolio-button.jpg)](https://www.github.com/cozette-brown/BROWN-Data-Science-Portfolio)
