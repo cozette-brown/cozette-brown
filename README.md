@@ -17,6 +17,9 @@
 - HTML/CSS
 - Python
 - Pandas
+- Matplotlib
+- Seaborn
+- Streamlit
 
 ## 💬 Connect With Me!
 
