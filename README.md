@@ -9,7 +9,7 @@
 - 🌱  I am currently learning the basics of data science in MDSC 20009: Introduction to Data Science. 
 - 🥅  Goals for 2025: Improve my coding skills, try new data science tools, and work on more beginner projects!
 
-**Interests:** Data Science, Humanities, Comparative Literature, Justice Education, Anti-Poverty Initiatives, Non-profit Work, Education\
+**Interests:** Data Science, Humanities, Comparative Literature, Justice Education, Anti-Poverty Initiatives, Non-profit Work, Education
 
 ## 👩🏼‍💻 My Languages and Tools
 
